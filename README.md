@@ -1,5 +1,2 @@
 # sensor
-using various different sensors
-Servo motors
-Dht11, dht 22
-
+There are name of different sensors and their codes
